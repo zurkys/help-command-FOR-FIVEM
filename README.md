@@ -1,4 +1,8 @@
 # help-command-FOR-FIVEM
-(use /help in game to your xustomization)
+(use /help in game to use)
 
-#made by zurkys#0101 :))
+made by zurkys
+
+https://discord.gg/XSQg9DC39F
+
+
